@@ -1,0 +1,6 @@
+{
+  "name": "Synapse Cybernetics",
+  "description": "Next-generation neural bio-mechatronics, cybernetic prosthetics, and high-bandwidth neuromuscular interfaces with animated circuitry and dark mode aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
